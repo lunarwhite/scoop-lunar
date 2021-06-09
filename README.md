@@ -7,14 +7,6 @@
   - DesktopCal
   - Vmware-Player
   - iTunes
-- 游戏
-  - Steam
-  - EpicGames
-  - WeGame
-- 科学上网
-  - VeePN
-  - Astar
-  - Psiphon3
 
 # How to bulid
 
