@@ -32,7 +32,6 @@
         "extract_dir": "cowsay-psh-master",
         "bin": "cowsay.ps1"
     }
-    
     ```
 
 - Configure Scoop to use your new bucket
@@ -61,7 +60,7 @@
 - Run below command in PowerShell to add the bucket
 
   ```bash
-  scoop bucket add scoop-lunar https://github.com/lunarwhite/scoop-lunar.git
+  scoop bucket add scoop-lunar https://github.com/lunarwhite/scoop-lunar.git 
   ```
 
 - Install apps from this bucket with below command
