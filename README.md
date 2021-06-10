@@ -25,14 +25,14 @@
 
 -  Edit app manifest in json
 
-  ```json
-  {
-      "version": "1.0",
-      "url": "https://github.com/lukesampson/cowsay-psh/archive/master.zip",
-      "extract_dir": "cowsay-psh-master",
-      "bin": "cowsay.ps1"
-  }
-  
+    ```json
+    {
+        "version": "1.0",
+        "url": "https://github.com/lukesampson/cowsay-psh/archive/master.zip",
+        "extract_dir": "cowsay-psh-master",
+        "bin": "cowsay.ps1"
+    }
+    
   ```
 
 - Configure Scoop to use your new bucket
