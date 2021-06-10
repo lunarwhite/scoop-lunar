@@ -33,7 +33,7 @@
         "bin": "cowsay.ps1"
     }
     
-  ```
+    ```
 
 - Configure Scoop to use your new bucket
 
