@@ -4,7 +4,6 @@
   - WeChat (√)
   - TIM
 - 日常
-  - DesktopCal
   - Vmware-Player
   - iTunes
 
@@ -60,7 +59,7 @@
 - Run below command in PowerShell to add the bucket
 
   ```bash
-  scoop bucket add scoop-lunar https://github.com/lunarwhite/scoop-lunar.git 
+  scoop bucket add scoop-lunar https://github.com/lunarwhite/scoop-lunar.git
   ```
 
 - Install apps from this bucket with below command
