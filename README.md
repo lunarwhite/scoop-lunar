@@ -1,4 +1,4 @@
-# Todo-list
+## Todo-list
 
 - 即时通讯
   - WeChat (√)
@@ -7,7 +7,7 @@
   - Vmware-Player
   - iTunes
 
-# How to bulid
+## How to bulid
 
 - Create a new GitHub repo called e.g. `my-bucket`
 
@@ -48,13 +48,13 @@
   hello # -> you should see 'Hello, <windows-username>!'
   ```
 
-# Add to dir
+## Add to dir
 
 - If you want your bucket listed in the [Scoop Directory](https://github.com/rasa/scoop-directory) , add a topic of `scoop-bucket` to its github page.
 - https://scoop-docs.vercel.app/apps/
 - https://scoop.netlify.app/apps/
 
-# How to install
+## How to install
 
 - Run below command in PowerShell to add the bucket
 
@@ -69,7 +69,7 @@
   scoop install scoop-lunar/wechat
   ```
 
-# References
+## References
 
 - [Buckets - scoop wiki](https://github.com/lukesampson/scoop/wiki/Buckets)
 - [App Manifests - scoop wiki](https://github.com/lukesampson/scoop/wiki/App-Manifests)
