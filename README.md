@@ -4,6 +4,8 @@
 - 即时通讯
   - WeChat (√)
   - TIM
+- 开发
+  - Docker-Desktop
 - 日常
   - Vmware-Player
   - iTunes
